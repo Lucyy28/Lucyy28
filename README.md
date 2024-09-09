@@ -1,5 +1,9 @@
 # <p align = "center"><img src="https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner Gif"/></p>
-<h1 align="center">Hi 👋, I'm M Firdan Ardiansyah</h1>
+<h1 align="center">
+  <img src="https://media4.giphy.com/media/cOR4yO6xBjYrRwITFd/giphy.gif?cid=6c09b952qmn3e7cz67ra96stzu1m06oxts9qfxdh3fdhgzha&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="lucyy28" height="2%" width="2%"/>
+  Hi 👋, I'm M Firdan Ardiansyah
+  <img src="https://media4.giphy.com/media/cOR4yO6xBjYrRwITFd/giphy.gif?cid=6c09b952qmn3e7cz67ra96stzu1m06oxts9qfxdh3fdhgzha&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="lucyy28" height="2%" width="2%"/>
+</h1>
 <h3 align="center">A passionate FullStack Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZoP9sLM_8WRx3QIDBofQwJ3MeXCiNqoAzHL3cNdSMXwuf1kATgw5HvrLb&s=10">
 
